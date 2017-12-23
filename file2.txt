@@ -15,4 +15,4 @@ first Git
 
 Create a new branch named dev
 
-Create a new branch agin named feature1
+Create a new branch again named feature1
