@@ -15,4 +15,8 @@ first Git
 
 Create a new branch named dev
 
-Create a new branch named feature1 again
+<<<<<<< HEAD
+Create a new branch again named feature1 
+=======
+Create a new branch again named feature1
+>>>>>>> feature1
