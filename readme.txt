@@ -1,1 +1,1 @@
-﻿leaning Git Quickly
+﻿leaning Git Quick
