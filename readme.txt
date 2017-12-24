@@ -1,2 +1,2 @@
-﻿leaning Git Quick
+﻿leaning Git is easy
 really?
